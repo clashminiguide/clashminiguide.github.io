@@ -19,6 +19,8 @@
 3. Content Creators
 4. Feedback
 5. Disclaimer
+
+
 ## Progression
 
 1. Do your quests (especially daily and weekly quests), you should do them in the **expedition road** to not lose trophies, or in mini rooms with your friends or clanmates.
