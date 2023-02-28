@@ -1,5 +1,9 @@
 # Clash Mini Ultimate Guide
 
+# Other languages
+- [English](https://clashminiguide.github.io)
+- [German / Deutsch](https://clashminiguide.github.io/de)
+
 # Table of content
 1. Progression
     - Shop
