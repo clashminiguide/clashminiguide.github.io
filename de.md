@@ -1,5 +1,9 @@
 # Clash Mini Ultimativer Guide
 
+# Andere Sprachen
+- [Englisch](https://clashminiguide.github.io)
+- [Deutsch](https://clashminiguide.github.io/de)
+
 # Inhaltsverzeichnis
 1. Fortschritt
     - Shop
